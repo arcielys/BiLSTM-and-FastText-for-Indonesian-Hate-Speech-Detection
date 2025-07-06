@@ -1,2 +1,2 @@
 # BiLSTM & FastText
-Implementation of BiLSTM & FastText-word-embedding for Indonesian Hate Speech Detection with Oversampling techniques for handling imbalanced dataset. 
+A Comparative study on handling imbalanced Indonesian Hate speech dataset by using BiLSTM & FastText using Oversampling Techniques (Random Oversampling, SMOTE, and ADASYN)
